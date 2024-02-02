@@ -1,3 +1,3 @@
-# HashiCat Module for Azure
+# Generic Module Function!
 
-Cats on the Internet!
+This is useless!
